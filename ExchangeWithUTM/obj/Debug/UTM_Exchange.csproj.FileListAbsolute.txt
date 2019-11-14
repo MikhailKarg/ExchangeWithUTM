@@ -1,0 +1,10 @@
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Interchange.dll
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe.config
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.pdb
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Interchange.pdb
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\obj\Debug\UTM_Exchange.csprojAssemblyReference.cache
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\obj\Debug\UTM_Exchange.csproj.CoreCompileInputs.cache
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\obj\Debug\UTM_Exchange.csproj.CopyComplete
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\obj\Debug\UTM_Exchange.exe
+C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\obj\Debug\UTM_Exchange.pdb
