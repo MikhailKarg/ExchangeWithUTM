@@ -317,3 +317,141 @@ System.Reflection.TargetInvocationException: Адресат вызова соз�
    logtoconsole = 
    logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
    assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+Выполняется установка сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+Устанавливается служба ExchangeUTMService...
+Служба ExchangeUTMService успешно установлена.
+Создается исходный EventLog ExchangeUTMService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+Выполняется установка сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Устанавливается служба ExchangeUTMService...
+Служба ExchangeUTMService успешно установлена.
+Создается исходный EventLog ExchangeUTMService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Выполняется установка сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Устанавливается служба ExchangeUTMService...
+Служба ExchangeUTMService успешно установлена.
+Создается исходный EventLog ExchangeUTMService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Выполняется установка сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Устанавливается служба ExchangeUTMService...
+Служба ExchangeUTMService успешно установлена.
+Создается исходный EventLog ExchangeUTMService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Выполняется установка сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Устанавливается служба ExchangeUTMService...
+Служба ExchangeUTMService успешно установлена.
+Создается исходный EventLog ExchangeUTMService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Users\mkargaltsev\source\repos\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing assembly 'C:\Soft\ExchangeUTMService\ExchangeUTMService_21.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService\ExchangeUTMService_21.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService\ExchangeUTMService_21.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing service ExchangeUTMService...
+Service ExchangeUTMService has been successfully installed.
+Creating EventLog source ExchangeUTMService in log Application...
+Committing assembly 'C:\Soft\ExchangeUTMService\ExchangeUTMService_21.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService\ExchangeUTMService_21.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService\ExchangeUTMService_21.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing assembly 'C:\Soft\ExchangeUTMService\ExchangeUTMService_23.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService\ExchangeUTMService_23.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService\ExchangeUTMService_23.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing service ExchangeUTMService...
+Service ExchangeUTMService has been successfully installed.
+Creating EventLog source ExchangeUTMService in log Application...
+Committing assembly 'C:\Soft\ExchangeUTMService\ExchangeUTMService_23.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService\ExchangeUTMService_23.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService\ExchangeUTMService_23.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing assembly 'C:\Soft\ExchangeUTMService\ExchangeUTMService_26.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService\ExchangeUTMService_26.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService\ExchangeUTMService_26.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing service ExchangeUTMService...
+Service ExchangeUTMService has been successfully installed.
+Creating EventLog source ExchangeUTMService in log Application...
+Committing assembly 'C:\Soft\ExchangeUTMService\ExchangeUTMService_26.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService\ExchangeUTMService_26.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService\ExchangeUTMService_26.03.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing assembly 'C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing service ExchangeUTMService...
+Service ExchangeUTMService has been successfully installed.
+Creating EventLog source ExchangeUTMService in log Application...
+Committing assembly 'C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Uninstalling assembly 'C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\Soft\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Removing EventLog source ExchangeUTMService.
+Service ExchangeUTMService is being removed from the system...
+Service ExchangeUTMService was successfully removed from the system.
+Installing assembly 'C:\OchakovoService\ExchangeUTM\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\OchakovoService\ExchangeUTM\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\OchakovoService\ExchangeUTM\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
+Installing service ExchangeUTMService...
+Service ExchangeUTMService has been successfully installed.
+Creating EventLog source ExchangeUTMService in log Application...
+Committing assembly 'C:\OchakovoService\ExchangeUTM\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\OchakovoService\ExchangeUTM\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.exe
+   logfile = C:\OchakovoService\ExchangeUTM\ExchangeUTMService_09.04.20\ExchangeWithUTM\ExchangeWithUTM\bin\Debug\UTM_Exchange.InstallLog
